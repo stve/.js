@@ -5,3 +5,5 @@ $(".pagination a").css({
   '-webkit-border-radius': '3px',
   'border-radius': '3px'
 });
+
+$('a.notifications_count').hide();
