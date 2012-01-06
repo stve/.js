@@ -7,3 +7,6 @@ $(".pagination a").css({
 });
 
 $('a.notifications_count').hide();
+
+$('div.bubble').css({'padding': '0px'});
+$('div#readme').css({'padding': '0px'});
